@@ -5,7 +5,7 @@
 
 📚 **Galgotias College Of Engineering And Technology**  
 
-🧑‍💻 **Submitted by:** Aditya Singh Rajput  
+🧑‍💻 **Submitted by:** Aditya Singh (2300970100021)  
 
 </div>
 
