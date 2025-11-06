@@ -3,7 +3,7 @@
 # 🚀 Dynamic Programming Training Repository  
 ### *Recursion • Backtracking • Dynamic Programming*  
 
-📚 **Galgotias College Of Engineering And Technology**  
+📚 **Galgotias College of Engineering and Technology**  
 
 🧑‍💻 **Submitted by:** Aditya Singh (2300970100021)  
 
@@ -11,14 +11,16 @@
 
 ---
 
-##  Overview
-This repository contains the assignment and daily practice work for  
-**Day 1 – Recursion** from the *Two-Week Dynamic Programming Training Session (Nov 4–18, 2025)*  
-organized by **Galgotias University**.
+## 🧭 Overview
+This repository contains the assignments and daily practice work from the  
+**Two-Week Dynamic Programming Training Session (Nov 4–18, 2025)**  
+organized by **Galgotias College of Engineering and Technology**.
 
-The goal is to understand how problems can be solved using **recursion**,  
-focusing on **base cases**, **recursive cases**, and **call-stack logic**.  
-All solutions are written in **JavaScript (ES6)** using **recursion only** — no loops.
+The goal of this training is to build strong problem-solving foundations using  
+**Recursion**, **Backtracking**, and **Dynamic Programming**.  
+
+All solutions are written in **JavaScript (ES6)** using recursive or backtracking approaches —  
+no loops, no built-in combination/permutation utilities.
 
 ---
 
@@ -42,6 +44,21 @@ All solutions are written in **JavaScript (ES6)** using **recursion only** — n
 
 ---
 
+## 🧩 Day 2 – Backtracking Basics
+> *Learning to explore multiple possibilities using recursion and constraint logic.*
+
+| # | Problem | Description |
+|---|----------|-------------|
+| 1 | Print N-bit Binary Numbers | Generate N-bit binary numbers with more 1’s than 0’s in every prefix. |
+| 2 | Delete Middle Element of a Stack | Remove the middle element from a stack using recursion only. |
+| 3 | Letter Combinations of a Phone Number | Return all letter combinations for a digit string (LeetCode – 17). |
+| 4 | Combinations | Generate all combinations of k numbers out of 1…n (LeetCode – 77). |
+| 5 | Letter Tile Possibilities | Count all possible non-empty sequences (LeetCode – 1079). |
+
+📁 **Folder:** `/Day2-Backtracking/`
+
+---
+
 ## ⚙️ Tech Stack
 - **Language:** JavaScript (ES6)  
 - **Editor:** VS Code  
@@ -50,4 +67,4 @@ All solutions are written in **JavaScript (ES6)** using **recursion only** — n
 
 ---
 
-## 📂 Folder Structure
+
